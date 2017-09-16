@@ -361,7 +361,7 @@ public class MainFrame extends javax.swing.JFrame {
 
         jTextArea2.setColumns(20);
         jTextArea2.setRows(5);
-        jTextArea2.setText("Η εφορμογή κατασκευάστηκε απο το υπουργείο οικονομικών και βελτιώθηκε από την\nομάδα του taxonomy.gr\nΟ κώδικας βρίσκεται στο https://github.com/grousso/gsis-client");
+        jTextArea2.setText("Η εφορμογή κατασκευάστηκε απο το υπουργείο οικονομικών και βελτιώθηκε από την\nομάδα του taxonomy.gr\nΟ κώδικας βρίσκεται στο https://github.com/grousso/gsis-client\nCredits VManolas & Mike8");
         jScrollPane2.setViewportView(jTextArea2);
 
         jPanel2.add(jScrollPane2, java.awt.BorderLayout.PAGE_END);
